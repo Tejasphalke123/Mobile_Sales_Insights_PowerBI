@@ -28,8 +28,6 @@ Sales by Day: Highest sales on Fridays & Mondays, lowest on Thursdays.
 
 Digital transactions dominate, signaling a shift towards cashless payments.
 
-7️⃣ Sales by Day of the Week:
+🔍 Business Recommendations
 
-Highest sales occur on Fridays and Mondays (26.4M each), while Thursdays see the lowest sales (23.2M).
-
-Suggests end-of-week promotions or salary-driven purchases.
+✅ Leverage festive season promotions for higher sales in peak months.✅ Strengthen supply in metro cities for increased revenue.✅ Enhance customer satisfaction by addressing poor reviews.✅ Encourage digital payments with discounts on UPI & Debit Cards.
