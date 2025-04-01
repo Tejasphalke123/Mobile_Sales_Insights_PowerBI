@@ -3,7 +3,9 @@
 
 🔧 Technologies Used :
 🔹Power BI – Data visualization & analytics
+
 🔹Excel – Data source
+
 🔹DAX (Data Analysis Expressions) – Custom measures and calculated colum
 
 📈 Key Insights from the Dashboard
