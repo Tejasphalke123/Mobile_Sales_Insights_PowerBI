@@ -1,5 +1,8 @@
 # Mobile_Sales_Insights_PowerBI
+
 📌 This Power BI project analyzes mobile sales performance across various regions, product categories, and customer segments. The dashboard provides key insights into sales trends, top-performing products, revenue distribution, and overall business performance.
+
+
 
 🔧 Technologies Used :
 
@@ -28,6 +31,8 @@
 8) Sales by Day: Highest sales on Fridays & Mondays, lowest on Thursdays.
 
 9) Digital transactions dominate, signaling a shift towards cashless payments.
+
+    
 
 🔍 Business Recommendations
 
