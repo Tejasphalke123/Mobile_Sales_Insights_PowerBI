@@ -12,35 +12,19 @@ DAX (Data Analysis Expressions) – Custom measures and calculated colum
 
 Total Sales: 769M revenue, 19K units sold, 3,835 transactions.
 
-Average Price per Mobile: 40.11K, indicating a focus on premium models.
+Top Brands: Apple (21%) and Samsung (19.8%) lead the market.
 
-2️⃣ Top-Selling Brands & Models:
+Best-Selling Models: iPhone SE (60M), OnePlus Nord (58M), Galaxy Note 20 (56M).
 
-Apple (21%) and Samsung (19.8%) dominate the market.
+Metro Cities Dominate: Delhi, Mumbai, Bangalore, Kolkata, and Chennai contribute most sales.
 
-Best-selling models: iPhone SE (60M), OnePlus Nord (58M), Galaxy Note 20 (56M).
+Seasonal Trends: Peak sales in March & August, lowest in February.
 
-3️⃣ Sales Performance by Region:
+Customer Ratings: Mostly positive, but 309 poor ratings need improvement.
 
-Major sales hubs: Delhi, Mumbai, Bangalore, Kolkata, Chennai.
+Preferred Payment Methods: UPI (26.36%) and Debit Cards (24.72%) dominate.
 
-Metro cities contribute the most to total revenue.
-
-4️⃣ Customer Ratings & Satisfaction:
-
-2,331 customers rated products as Good, while 309 gave a Poor rating.
-
-Suggests overall high customer satisfaction, but some areas need improvement.
-
-5️⃣ Seasonal & Monthly Trends:
-
-Sales spiked in March and August, possibly due to festive seasons or product launches.
-
-Lowest sales recorded in February, indicating an off-season period.
-
-6️⃣ Sales by Payment Method:
-
-Customers prefer UPI (26.36%) and Debit Cards (24.72%) over Credit Cards (24.69%) and Cash (24.22%).
+Sales by Day: Highest sales on Fridays & Mondays, lowest on Thursdays.
 
 Digital transactions dominate, signaling a shift towards cashless payments.
 
