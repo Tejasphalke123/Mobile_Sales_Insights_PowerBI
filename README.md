@@ -8,8 +8,6 @@ DAX (Data Analysis Expressions) – Custom measures and calculated colum
 
 📈 Key Insights from the Dashboard
 
-1️⃣ Total Sales & Revenue Trends:
-
 1) Total Sales: 769M revenue, 19K units sold, 3,835 transactions.
 
 2) Top Brands: Apple (21%) and Samsung (19.8%) lead the market.
