@@ -2,10 +2,9 @@
 📌 This Power BI project analyzes mobile sales performance across various regions, product categories, and customer segments. The dashboard provides key insights into sales trends, top-performing products, revenue distribution, and overall business performance.
 
 🔧 Technologies Used :
-
-Power BI – Data visualization & analytics
-Excel – Data source
-DAX (Data Analysis Expressions) – Custom measures and calculated colum
+🔹Power BI – Data visualization & analytics
+🔹Excel – Data source
+🔹DAX (Data Analysis Expressions) – Custom measures and calculated colum
 
 📈 Key Insights from the Dashboard
 
