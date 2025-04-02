@@ -10,7 +10,7 @@
 
 🔹Excel – Data source
 
-🔹DAX (Data Analysis Expressions) – Custom measures and calculated colum
+🔹DAX (Data Analysis Expressions) – Custom measures and calculated columne
 
 📈 Key Insights from the Dashboard
 
